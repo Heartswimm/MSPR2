@@ -1,13 +1,21 @@
 # MSPR2
 
-Votre tâche consiste à réaliser les missions suivantes :
+ Votre tâche consiste à réaliser les missions suivantes :
+ 
 • Mission M1 : Mise en place d’une infrastructure virtuelle
+
 • Mission M2 : Hébergement du portail d’authentification sur un cluster Linux ACTIF/PASSIF
+
 • Mission M3 : Synchronisation des fichiers au sein du cluster
+
 • Mission M4 : Mise en place d’un service Active Directory / DNS / DHCP
+
 • Mission M5 : Sécurisation du réseau via firewall
+
 • Mission M6 : Sécurisation du cluster WEB
+
 • Mission M7 : Mise en place d’une solution de supervision
+
 • Mission M8 : Rédaction des livrables (cf section « livrables attendus ») et préparation de la soutenance
 
 ---------------------------------------------------------------------------------------------------------------------------------------
